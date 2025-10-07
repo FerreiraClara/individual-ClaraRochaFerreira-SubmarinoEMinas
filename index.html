@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jogo 2D de Submarino e Minas desenvolvido em HTML5 Canvas">
+    <meta name="author" content="[Seu Nome]">
+    <link rel="stylesheet" href="style.css">
+    <title>Submarino e Minas</title>
+</head>
+<body>
+    <!-- Container principal do jogo -->
+    <div id="gameContainer">
+        
+        <!-- HUD - Interface de informações do jogo -->
+        <div id="hud">
+            <div>Pontuação: <span id="score">0</span></div>
+            <div>Vida: <span id="health">100</span></div>
+            <div>Minas Destruídas: <span id="minesDestroyed">0</span></div>
+        </div>
+        
+        <!-- Canvas principal onde o jogo é renderizado -->
+        <canvas id="gameCanvas" width="800" height="600"></canvas>
+        
+        <!-- Tela de Game Over (inicialmente oculta) -->
+        <div id="gameOver">
+            <h1>GAME OVER</h1>
+            <p>Pontuação Final: <span id="finalScore">0</span></p>
+            <p>Minas Destruídas: <span id="finalMines">0</span></p>
+            <button onclick="restartGame()">Jogar Novamente</button>
+        </div>
+        
+    </div>
+
+    <!-- Script principal do jogo -->
+    <script src="main.js"></script>
+</body>
+</html>
