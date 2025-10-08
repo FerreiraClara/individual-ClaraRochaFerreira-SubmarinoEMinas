@@ -3,7 +3,7 @@
 **Data de Entrega**: 08/10/2025
 
 📚 *Disciplina: Desenvolvimento de Jogos Digitais*
-👨🏻‍🏫 **Professor:** [Christien Lana Rachid](https://github.com/christienrachid)
+👨🏻‍🏫 **Professor:** Christien Lana Rachid (https://github.com/christienrachid)
 📍 *Centro Universitário Academia*
 ---
 
@@ -203,7 +203,7 @@ game over e restart. Inclua comentários explicativos.
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/FerreiraClara/individual-ClaraRochaFerreira-SubmarinoEMinas.git]
+git clone https://github.com/FerreiraClara/individual-ClaraRochaFerreira-SubmarinoEMinas.git
 ```
 
 2. Abra o arquivo `index.html` em um navegador moderno (Chrome, Firefox, Edge)
@@ -239,14 +239,14 @@ git clone [https://github.com/FerreiraClara/individual-ClaraRochaFerreira-Submar
 
 ## 👥 Equipe
 
-- **Desenvolvedor 1**: [Clara Rocha Ferreira] - Geração com LLM A (Claude)
+- **Desenvolvedor 1**: Clara Rocha Ferreira - Geração com LLM A (Claude)
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais como parte do curso [Desenvolvimento de Jogos Digitais] na [Centro Universitário Academia].
+Este projeto foi desenvolvido para fins educacionais como parte do curso Desenvolvimento de Jogos Digitais na Centro Universitário Academia.
 
 ## 🔗 Links
 
-- **Repositório**: [https://github.com/FerreiraClara/individual-ClaraRochaFerreira-SubmarinoEMinas.git]
+- **Repositório**: https://github.com/FerreiraClara/individual-ClaraRochaFerreira-SubmarinoEMinas.git
 
 ---
